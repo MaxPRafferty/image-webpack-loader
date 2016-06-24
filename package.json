@@ -1,6 +1,6 @@
 {
   "name": "image-webpack-loader",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "description": "Image loader module for webpack",
   "author": "Thomas Coopman @tcoopman",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "imagemin-pngquant": "^4.2.2",
     "loader-utils": "^0.2.14",
-    "imagemin": "^4.0.0",
+    "imagemin": "^3.2.2",
     "file-loader": "*"
   },
   "devDependencies": {
